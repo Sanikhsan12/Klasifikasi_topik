@@ -13,3 +13,8 @@ Menggunakan model pretrained ALBERT sebahai base dari arsitektur yang dibangun s
 - scikit-learn
 - tensorflow
 - transformers
+
+## Dataset
+
+Dataset yang digunakan sebagai acuan proyek ini berasal dari kaggle
+https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification
