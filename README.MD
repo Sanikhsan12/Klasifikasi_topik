@@ -17,4 +17,6 @@ Menggunakan model pretrained ALBERT sebahai base dari arsitektur yang dibangun s
 ## Dataset
 
 Dataset yang digunakan sebagai acuan proyek ini berasal dari kaggle
-https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification
+
+- https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification ( BBC NEWS )
+- https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset ( AG NEWS )
